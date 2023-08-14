@@ -1,2 +1,2 @@
 # Projeto, calculadora de gorjetas
- Primerio porjeto ultilizando javaScript, HTML e CSS
+Meu primerio projeto ultilizando javaScript, HTML e CSS
